@@ -1,0 +1,12 @@
+secret.txt
+# Terraform
+**/.terraform/*
+**/*.tfstate
+**/*.tfstate.backup
+
+# Mac
+.DS_Store
+
+# Ignore other repo
+jenkins-auto-build-demo/
+
