@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Keys
+*.pem
+
+# Mac
+.DS_Store
+
+# Node (if any future use)
+node_modules/
+

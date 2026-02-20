@@ -1,12 +1,9 @@
-secret.txt
 # Terraform
-**/.terraform/*
+**/.terraform/
 **/*.tfstate
 **/*.tfstate.backup
-
-# Mac
+*.pem
+ip.txt
+instance_ip.txt
 .DS_Store
-
-# Ignore other repo
-jenkins-auto-build-demo/
 
